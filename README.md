@@ -9,4 +9,4 @@ _Manipuler les chaines de caractères._
 5) Créer un script qui va utiliser ces fonctions.
 
 Exemple d’exécution : 
-[resultat.png](resultat.png)
+[resultat.PNG](resultat.PNG)
